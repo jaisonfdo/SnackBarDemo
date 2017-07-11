@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SnackBarDemo</string>
+    <string name="action_delete">Delete</string>
+</resources>
